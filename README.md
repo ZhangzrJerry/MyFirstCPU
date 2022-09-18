@@ -6,8 +6,6 @@
 
 ![image](https://user-images.githubusercontent.com/87751816/190884659-b9abbfae-54f5-4042-bec7-a58e5b44b504.png)
 
-![image](https://user-images.githubusercontent.com/87751816/190884674-a097da17-409e-4935-9c5f-33aaae3005b0.png)
-
 ## 使用说明
 
 1. **关于供电**
